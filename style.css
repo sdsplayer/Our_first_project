@@ -32,6 +32,7 @@ nav{
     list-style: none;
     transition-duration: 600ms;
     text-align: center;
+    user-select: none;
 }
 
 .navLink:hover{
